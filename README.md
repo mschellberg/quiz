@@ -2,7 +2,7 @@
 Used with HTML, CSS, Javascript
 
 ## Purpose
-To take a timed multiple choice quiz 
+To take a timed multiple choice quiz that tracks high scores and stores them in local storage
 
 ## Website
 [Quiz](https://mschellberg.github.io/quiz/)
